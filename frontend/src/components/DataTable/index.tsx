@@ -21,58 +21,66 @@ const DataTable = () => {
           </tr>
           <tr>
             <td>22/04/2021</td>
-            <td>Barry Allen</td>
+            <td>Anakin</td>
             <td>34</td>
             <td>25</td>
-            <td>15017.00</td>
-          </tr>          <tr>
+            <td>20000.00</td>
+          </tr>
+          <tr>
+            <td>22/04/2021</td>
+            <td>Logan</td>
+            <td>34</td>
+            <td>25</td>
+            <td>35000.00</td>
+          </tr>
+          <tr>
+            <td>22/04/2021</td>
+            <td>Kal-El</td>
+            <td>34</td>
+            <td>25</td>
+            <td>18017.00</td>
+          </tr>
+          <tr>
+            <td>22/04/2021</td>
+            <td>Padmé</td>
+            <td>34</td>
+            <td>25</td>
+            <td>50000.00</td>
+          </tr>
+          <tr>
             <td>22/04/2021</td>
             <td>Barry Allen</td>
             <td>34</td>
             <td>25</td>
             <td>15017.00</td>
-          </tr>          <tr>
+          </tr>
+          <tr>
             <td>22/04/2021</td>
-            <td>Barry Allen</td>
+            <td>Anakin</td>
             <td>34</td>
             <td>25</td>
-            <td>15017.00</td>
-          </tr>          <tr>
+            <td>20000.00</td>
+          </tr>
+          <tr>
             <td>22/04/2021</td>
-            <td>Barry Allen</td>
+            <td>Logan</td>
             <td>34</td>
             <td>25</td>
-            <td>15017.00</td>
-          </tr>          <tr>
+            <td>35000.00</td>
+          </tr>
+          <tr>
             <td>22/04/2021</td>
-            <td>Barry Allen</td>
+            <td>Kal-El</td>
             <td>34</td>
             <td>25</td>
-            <td>15017.00</td>
-          </tr>          <tr>
+            <td>18017.00</td>
+          </tr>
+          <tr>
             <td>22/04/2021</td>
-            <td>Barry Allen</td>
+            <td>Padmé</td>
             <td>34</td>
             <td>25</td>
-            <td>15017.00</td>
-          </tr>          <tr>
-            <td>22/04/2021</td>
-            <td>Barry Allen</td>
-            <td>34</td>
-            <td>25</td>
-            <td>15017.00</td>
-          </tr>          <tr>
-            <td>22/04/2021</td>
-            <td>Barry Allen</td>
-            <td>34</td>
-            <td>25</td>
-            <td>15017.00</td>
-          </tr>          <tr>
-            <td>22/04/2021</td>
-            <td>Barry Allen</td>
-            <td>34</td>
-            <td>25</td>
-            <td>15017.00</td>
+            <td>50000.00</td>
           </tr>
         </tbody>
       </table>
